@@ -1,0 +1,7 @@
+node_modules/
+dist/
+pipeline/out/
+pipeline/render/assets/model.bin
+test-results/
+pipeline/render/assets/model.json
+pipeline/opening-shot/render/assets/
